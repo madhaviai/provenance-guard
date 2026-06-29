@@ -2,6 +2,8 @@
 
 A backend API that creative platforms plug into to classify whether submitted text is likely human-written or AI-generated, score confidence honestly, surface transparency labels, and handle creator appeals.
 
+**Demo Video**: [AI Safety & Guardrails Demo](https://drive.google.com/file/d/1HR0GbuoJAOfJQuE9E5gK6120xfW1TVfF/view?usp=sharing) 
+
 ## Quick Start
 
 ```bash
